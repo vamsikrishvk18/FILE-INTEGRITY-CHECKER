@@ -16,3 +16,9 @@ METOR:NEELA SANTOSH
 
 #OUTPUT
 
+<img width="865" height="567" alt="Image" src="https://github.com/user-attachments/assets/6bc82631-b0e8-47e5-8f0d-caaa0dc7ece0" />
+
+<img width="900" height="261" alt="Image" src="https://github.com/user-attachments/assets/1bbfe7fc-86cb-4eaf-93c9-4fc7da8e502d" />
+
+<img width="951" height="125" alt="Image" src="https://github.com/user-attachments/assets/ae939fae-7eab-4440-a468-13334d800781" />
+
